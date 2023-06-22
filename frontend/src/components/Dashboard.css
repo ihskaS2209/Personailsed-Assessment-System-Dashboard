@@ -1,0 +1,42 @@
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.dashboard-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.dashboard-role {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.dashboard-description {
+    margin-top: 20px;
+}
+
+.dashboard-action-title {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.dashboard-action-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.dashboard-action-link {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+    text-decoration: none;
+}
+
+.dashboard-action-link:hover {
+    text-decoration: underline;
+}
